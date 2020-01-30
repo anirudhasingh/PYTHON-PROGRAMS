@@ -1,0 +1,7 @@
+list=[]
+b=1
+while(b!=0):
+     b=int(input("enter eliments")
+    if(b!=0):
+         list.append(b)
+print(list)
