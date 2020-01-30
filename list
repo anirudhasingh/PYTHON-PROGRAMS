@@ -1,0 +1,8 @@
+aa=int(input("enter the value for its table"))
+list=[]
+for i in range(0,aa):
+    b=int(input("enter the number"))
+    if(b%2==0):
+          list.append(b)
+print(list)
+    
